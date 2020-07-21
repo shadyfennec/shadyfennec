@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github page!
+This is where I host and work on my personnal projects that are good enough to be made public.
+Feel free to contact me or make a pull request if you want to help with something you find interesting!
+
+- 📫 How to reach me: [twitter](https://twitter.com/shadyfennec)
+- ❤ Pronouns: he/him, they/them
 
 <!--
 **shadyfennec/shadyfennec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
