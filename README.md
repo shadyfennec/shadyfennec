@@ -2,9 +2,9 @@
 This is where I host and work on my personnal projects that are good enough to be made public.
 Feel free to contact me or make a pull request if you want to help with something you find interesting!
 
-- 🔭 I’m currently working on [my GBC emulator](https://github.com/shadyfennec/moongbc)
+- 🔭 I’m currently working on [a terminal emulator](https://github.com/shadyfennec/ft)
 - 📫 How to reach me: [twitter](https://twitter.com/shadyfennec)
-- ❤ Pronouns: he/him, they/them
+- ❤ Pronouns: they/them
 
 <!--
 **shadyfennec/shadyfennec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
