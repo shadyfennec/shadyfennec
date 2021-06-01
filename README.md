@@ -12,4 +12,4 @@ My pronouns are **they/them**, and I am *non-binary*.
 - 💻 [ft](https://github.com/shadyfennec/ft), an experiment of a terminal emulator.
 
 ### Art
-- 🎨 [Art](https://github.com/shadyfennec/moongbc), a repository of my art and tracking commission progress.
+- 🎨 [Art](https://github.com/shadyfennec/art), a repository of my art and tracking commission progress.
