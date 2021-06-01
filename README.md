@@ -1,22 +1,12 @@
-### Welcome to my Github page!
-This is where I host and work on my personnal projects that are good enough to be made public.
-Feel free to contact me or make a pull request if you want to help with something you find interesting!
+# Fennec!
+> [Twitter](https://twitter.com/shadyfennec) // [Mastodon](https://aleph.land/@ShadyFennec)
 
-- 🔭 I’m currently working on [a terminal emulator](https://github.com/shadyfennec/ft)
-- 📫 How to reach me: [twitter](https://twitter.com/shadyfennec)
-- ❤ Pronouns: they/them
+I am a French computer science student, and a furry digital artist. Welcome!
+I host on my GitHub page my personal projects and art pieces.
 
-<!--
-**shadyfennec/shadyfennec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns are **they/them**, and I am *non-binary*.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🎮 [MoonGBC](https://github.com/shadyfennec/moongbc), a gameboy emulator.
+- ↪ [Bauge programming language](https://github.com/shadyfennec/baugelang), an esoteric programming language using box-drawing characters.
+- 💻 [ft](https://github.com/shadyfennec/ft), an experiment of a terminal emulator.
