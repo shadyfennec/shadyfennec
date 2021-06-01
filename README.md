@@ -10,3 +10,6 @@ My pronouns are **they/them**, and I am *non-binary*.
 - 🎮 [MoonGBC](https://github.com/shadyfennec/moongbc), a gameboy emulator.
 - ↪ [Bauge programming language](https://github.com/shadyfennec/baugelang), an esoteric programming language using box-drawing characters.
 - 💻 [ft](https://github.com/shadyfennec/ft), an experiment of a terminal emulator.
+
+### Art
+- 🎨 [Art](https://github.com/shadyfennec/moongbc), a repository of my art and tracking commission progress.
