@@ -1,5 +1,5 @@
 # Fennec!
-> [Twitter](https://twitter.com/shadyfennec) // [Mastodon](https://vulpine.club/@fen)
+> [Twitter](https://twitter.com/shadyfennec) // [Mastodon](https://yiff.life/@fen)
 
 I am a French computer science student, and a furry digital artist. Welcome!
 I host on my GitHub page my personal projects and art pieces.
